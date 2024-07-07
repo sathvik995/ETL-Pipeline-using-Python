@@ -11,6 +11,14 @@ The Data ETL process is crucial for data management and involves three main stag
 
 If you are interested in learning how to develop a Data ETL pipeline, this guide will provide you with the essential steps and an example implementation in Python.
 
+
+![Screenshot 2024-07-07 182000](https://github.com/sathvik995/ETL-Pipeline-using-Python/assets/88426655/d8a5a652-9957-4bbb-807e-416cf6520714)
+The Above Image contains the data we that we Extracted, transformed and Loaded into SQLite.
+You can Download your final file after ETL Process and can view it on the following website 👉 : https://sqliteviewer.app/#/
+
+
+
+
 ## Summary
 
 In this article, you will learn how to:
@@ -20,10 +28,6 @@ In this article, you will learn how to:
 - **Load** the data into a database for analysis or future use.
 
 ETL stands for **Extracting**, **Transforming**, and **Loading** the data, which are the core components of the ETL process.
-
-## Getting Started
-
-To get started with developing a Data ETL pipeline, follow these steps:
 
 ### Prerequisites
 
