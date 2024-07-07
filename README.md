@@ -13,7 +13,7 @@ If you are interested in learning how to develop a Data ETL pipeline, this guide
 
 
 ![Screenshot 2024-07-07 182000](https://github.com/sathvik995/ETL-Pipeline-using-Python/assets/88426655/d8a5a652-9957-4bbb-807e-416cf6520714)
-The Above Image contains the data we that we Extracted, transformed and Loaded into SQLite.
+The Above Image contains the datathat we  have Extracted, transformed and Loaded into SQLite3.
 You can Download your final file after ETL Process and can view it on the following website 👉 : https://sqliteviewer.app/#/
 
 
